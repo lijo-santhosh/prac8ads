@@ -74,7 +74,7 @@ void Heap<T>::remove(T value) {
 
 template <typename T>
 T Heap<T>::getMin() {
-  T min = values[0]
+  T min = values[0];
   return min;
 }
 
